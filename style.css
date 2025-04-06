@@ -1,0 +1,31 @@
+main{
+    border: 5px solid black;
+    padding: 20px;
+    margin-left: 450px;
+    width: 600px;
+    height: 500px;
+    border-radius: 20px;
+}
+h1{
+    text-align: center;
+    text-transform: uppercase;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 30px;
+}
+.inp{
+    width: 590px;
+    height: 30px;
+    padding-left: 10px;
+}
+#forgot{
+    text-align: center;
+    text-decoration: none;
+}
+p{
+    text-align: center;
+}
+#f{
+    width: 590px;
+    height: 40px;
+    padding-left: 10px;
+}
