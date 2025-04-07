@@ -1,0 +1,25 @@
+body{
+    background-color: #84a98c;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+button{
+    border: 3px solid #354f52;
+    padding: 1em 2em;
+    margin: 2em;
+    color: #2f3e46;
+    background-color: #cad2c5;
+    font-size: 1em;
+    border-radius: 1em;
+    transition: all 0.25s;
+}
+button:hover{
+    border: 3px solid #264653;
+    color: #e9c46a;
+    background-color:#2a9d8f;
+    transform: translateY(-0.25em);
+    box-shadow: 0px 5px 10px 1px;
+}
